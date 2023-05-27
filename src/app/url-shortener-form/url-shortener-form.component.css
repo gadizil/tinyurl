@@ -1,0 +1,62 @@
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+.url-shortener-form {
+        margin-bottom: 1px;
+        margin-left: 50px;
+}
+
+form{
+    padding:100px
+}
+input {
+    padding: 1px;
+    width: 300px;
+    border: black;
+    border-radius: 1px;
+    font-size: 16px;
+    align-self: center;
+}
+  
+button.submit-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+}
+  
+button.submit-button:hover {
+    background-color: #45a049;
+}
+  
+button.submit-button:active {
+    background-color: #40843d;
+}
+  
+.shortened-url {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+  
+.error-message {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+}
+
+  
+  
