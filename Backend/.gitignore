@@ -1,0 +1,5 @@
+/node_modules/
+/views/
+/dist/
+src/client.ts
+src/routes.ts
